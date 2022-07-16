@@ -42,5 +42,4 @@ volumes:
     
 networks:
   springappnetwork:
-    external: 
-      name: Customoverlay
+    external: true
